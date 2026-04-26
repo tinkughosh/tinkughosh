@@ -4,7 +4,7 @@
 
 # Hi, I'm Tinku Ghosh 👋
 
-### Network & Security Engineer · Automation Specialist · 
+### Network & Security Engineer · Automation Specialist
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-tinkughosh.github.io/portfolio-5E6AD2?style=for-the-badge)](https://tinkughosh.github.io/portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tinkughosh)
